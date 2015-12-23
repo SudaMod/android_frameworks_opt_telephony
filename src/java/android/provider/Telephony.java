@@ -1939,6 +1939,13 @@ public final class Telephony {
         public static final String UNREAD_MESSAGE_COUNT = "unread_message_count";
 
         /**
+         * NOTIFICATION_MESSAGE.
+         * <P>Type: INTEGER</P>
+         * @hide
+         */
+        public static final String NOTIFICATION_MESSAGE = "notification_message";
+
+        /**
          * Indicates whether all messages of the thread have been read.
          * <P>Type: INTEGER</P>
          */
